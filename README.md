@@ -22,10 +22,8 @@ This project forecasts cryptocurrency prices using multiple machine learning mod
 
 ---
 
-## 📽 Demo & Presentation
+## 📽 Demo
 
-- [📹 Demo Video](demo.mp4)
-- [📄 Presentation Slides](presentation.pdf)
 
 ---
 
